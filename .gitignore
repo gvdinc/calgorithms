@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# and mine 
+#files
+/x64/*
+/.vs
+A.*
